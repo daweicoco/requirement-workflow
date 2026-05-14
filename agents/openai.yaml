@@ -1,0 +1,8 @@
+﻿interface:
+  display_name: "Requirement Workflow"
+  short_description: "Handoff-ready requirement analysis workflow"
+  brand_color: "#2563EB"
+  default_prompt: "Use $requirement-workflow to analyze the current workspace requirement documents and produce a handoff-ready output for design and development."
+
+policy:
+  allow_implicit_invocation: true
